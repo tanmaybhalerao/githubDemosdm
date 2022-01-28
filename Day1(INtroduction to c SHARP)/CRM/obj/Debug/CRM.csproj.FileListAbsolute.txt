@@ -1,0 +1,6 @@
+C:\Users\tanma\Desktop\CDAC Learning\.NET\Revision\Day1(INtroduction to c SHARP)\CRM\bin\Debug\CRM.dll
+C:\Users\tanma\Desktop\CDAC Learning\.NET\Revision\Day1(INtroduction to c SHARP)\CRM\bin\Debug\CRM.pdb
+C:\Users\tanma\Desktop\CDAC Learning\.NET\Revision\Day1(INtroduction to c SHARP)\CRM\obj\Debug\CRM.csproj.AssemblyReference.cache
+C:\Users\tanma\Desktop\CDAC Learning\.NET\Revision\Day1(INtroduction to c SHARP)\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+C:\Users\tanma\Desktop\CDAC Learning\.NET\Revision\Day1(INtroduction to c SHARP)\CRM\obj\Debug\CRM.dll
+C:\Users\tanma\Desktop\CDAC Learning\.NET\Revision\Day1(INtroduction to c SHARP)\CRM\obj\Debug\CRM.pdb
